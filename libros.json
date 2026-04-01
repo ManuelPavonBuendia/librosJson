@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "nombre": "Cien años de soledad",
+    "author": "Gabriel García Márquez",
+    "imagne": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Cien_a%C3%B1os_de_soledad_%28book_cover%29.jpg"
+  },
+  {
+    "id": 2,
+    "nombre": "Don Quijote de la Mancha",
+    "author": "Miguel de Cervantes",
+    "imagne": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Don_Quijote_and_Sancho_Panza.jpg"
+  },
+  {
+    "id": 3,
+    "nombre": "La sombra del viento",
+    "author": "Carlos Ruiz Zafón",
+    "imagne": "https://upload.wikimedia.org/wikipedia/en/5/5d/La_Sombra_del_Viento.jpg"
+  }
+]
