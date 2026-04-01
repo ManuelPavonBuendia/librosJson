@@ -9,12 +9,12 @@
     "id": 2,
     "nombre": "Don Quijote de la Mancha",
     "autor": "Miguel de Cervantes",
-    "imagen": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Don_Quijote_and_Sancho_Panza.jpg"
+    "imagen": "https://m.media-amazon.com/images/I/91CIwR3QU1L._UF1000,1000_QL80_.jpg"
   },
   {
     "id": 3,
     "nombre": "La sombra del viento",
     "autor": "Carlos Ruiz Zafón",
-    "imagen": "https://upload.wikimedia.org/wikipedia/en/5/5d/La_Sombra_del_Viento.jpg"
+    "imagen": "https://m.media-amazon.com/images/I/819tpiHbmLL._AC_UF1000,1000_QL80_.jpg"
   }
 ]
